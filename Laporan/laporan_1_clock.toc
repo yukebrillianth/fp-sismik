@@ -1,0 +1,16 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {section}{\numberline {1}Pendahuluan}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Latar Belakang}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Tujuan}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Dasar Teori}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Real Time Clock (RTC) DS1307}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Modul Tampilan TM1637}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Analog to Digital Converter (ADC)}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Dimming}{2}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Implementasi: Jam Digital 4-Digit dengan Fitur Dimming}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Deskripsi}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Komponen yang Digunakan}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Rangkaian (Wiring Diagram)}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Kode Program}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Hasil dan Pembahasan}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Kesimpulan}{7}{section.4}%

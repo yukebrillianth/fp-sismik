@@ -1,0 +1,17 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {section}{\numberline {1}Pendahuluan}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Latar Belakang}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Tujuan}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Dasar Teori}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Pulse Width Modulation (PWM)}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Analog to Digital Converter (ADC)}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Sensor LDR}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Potensiometer}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}WiFi Scanner Asinkron pada ESP32}{2}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Implementasi: Lampu Berjalan, Kontrol LDR, Dimming, dan WiFi Scanner}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Deskripsi}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Komponen yang Digunakan}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Rangkaian (Wiring Diagram)}{3}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Kode Program}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Hasil dan Pembahasan}{8}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Kesimpulan}{9}{section.4}%
