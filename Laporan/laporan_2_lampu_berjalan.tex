@@ -236,10 +236,9 @@ Tabel \ref{tab:wiring-lampu} berikut menjelaskan detail koneksi pin antara ESP32
          & Wiper (tengah) & GPIO 35 \\
          & Kaki 3 & GND \\
         \hline
-        \multirow{4}{*}{Sensor LDR} & Kaki 1 & 3V3 \\
-         & Kaki 2 & GPIO 32 \\
-         & Resistor 10k$\Omega$ (kaki 1) & GPIO 32 \\
-         & Resistor 10k$\Omega$ (kaki 2) & GND \\
+        \multirow{4}{*}{Sensor LDR} & VCC & 3V3 \\
+         & GND & GND \\
+         & A0 & GPIO 32 \\
         \hline
     \end{tabular}
 \end{table}

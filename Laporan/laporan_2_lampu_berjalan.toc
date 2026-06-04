@@ -12,6 +12,6 @@
 \contentsline {subsection}{\numberline {3.1}Deskripsi}{3}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Komponen yang Digunakan}{3}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Rangkaian (Wiring Diagram)}{3}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Kode Program}{5}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Kode Program}{4}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Hasil dan Pembahasan}{8}{subsection.3.5}%
 \contentsline {section}{\numberline {4}Kesimpulan}{9}{section.4}%

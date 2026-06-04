@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.18)  4 JUN 2026 05:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.18)  4 JUN 2026 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -544,10 +544,6 @@ Package pdftex.def Info: assets/img/wiring-clock.png  used on input line 198.
 (pdftex.def)             Requested size: 326.64055pt x 196.58742pt.
 
 
-LaTeX Warning: Reference `tab:wiring-clock' on page 3 undefined on input line 203.
-
-
-
 [3 <./assets/img/wiring-clock.png>] (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -572,12 +568,12 @@ Underfull \hbox (badness 4981) in paragraph at lines 236--237
 
 
 [6]
-<assets/img/clock-terang.png, id=243, 1284.8pt x 722.7pt>
+<assets/img/clock-terang.png, id=244, 1284.8pt x 722.7pt>
 File: assets/img/clock-terang.png Graphic file (type png)
 <use assets/img/clock-terang.png>
 Package pdftex.def Info: assets/img/clock-terang.png  used on input line 244.
 (pdftex.def)             Requested size: 179.25114pt x 100.82442pt.
-<assets/img/clock-redup.png, id=244, 1284.8pt x 722.7pt>
+<assets/img/clock-redup.png, id=245, 1284.8pt x 722.7pt>
 File: assets/img/clock-redup.png Graphic file (type png)
 <use assets/img/clock-redup.png>
 Package pdftex.def Info: assets/img/clock-redup.png  used on input line 251.
@@ -591,32 +587,22 @@ Package pdftex.def Info: assets/img/clock-redup.png  used on input line 251.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `laporan_1_clock.out' has not changed.
 (rerunfilecheck)             Checksum: B3142F61E7DA246D1046D1D8AA1D49B4;2323.
  ) 
 Here is how much of TeX's memory you used:
- 17484 strings out of 469590
- 279030 string characters out of 5470340
- 1157104 words of memory out of 5000000
+ 17483 strings out of 469590
+ 279014 string characters out of 5470340
+ 1157163 words of memory out of 5000000
  43915 multiletter control sequences out of 15000+600000
  633421 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,10n,79p,1055b,2210s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.caption.2} has been referenced but does not exist, replaced by a fixed one
-
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on laporan_1_clock.pdf (10 pages, 2849389 bytes).
+Output written on laporan_1_clock.pdf (10 pages, 2849222 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 292 compressed objects within 3 object streams
- 151 named destinations out of 1000 (max. 500000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 150 named destinations out of 1000 (max. 500000)
  17549 words of extra memory for PDF output out of 20736 (max. 10000000)
 
